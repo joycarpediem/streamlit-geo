@@ -13,7 +13,7 @@ GitHub Repository: <https://github.com/giswqs/streamlit-multipage-template>
 # st.sidebar.image(logo)
 
 
-st.title("Interactive Map")
+st.title("Tree Loss , New Britain, Papua New Guinea")
 def display_html_file(file_path):
     with open(file_path, 'r') as html_file:
         html_content = html_file.read()
